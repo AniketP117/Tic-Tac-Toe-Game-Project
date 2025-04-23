@@ -5,8 +5,8 @@ This project is a simple implementation of the classic **Tic Tac Toe** game usin
 ## 🔗 Live Project
 
 You can check out the live project here:  
-👉 [https://<your-app-name>.azurestaticapps.net]([https://<your-app-name>.azurestaticapps.net](https://kind-bay-0f4200610.6.azurestaticapps.net))  
-_(Replace this link with your actual Azure Static Web App URL)_
+👉 [https://<your-app-name>.azurestaticapps.net](https://kind-bay-0f4200610.6.azurestaticapps.net))  
+
 
 ---
 
