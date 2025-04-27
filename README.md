@@ -21,6 +21,11 @@ You can check out the live project here:
 
 ---
 
+## 🎮 Preview
+![Tic Tac Toe Game Screenshot](https://github.com/AniketP117/Tic-Tac-Toe-Game-Project/blob/master/public/Project%20Screenshot.png)
+
+---
+
 ## 📁 Project Setup
 
 To clone and run this project locally, follow these steps:
